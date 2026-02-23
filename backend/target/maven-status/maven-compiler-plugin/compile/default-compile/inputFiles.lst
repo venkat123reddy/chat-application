@@ -1,0 +1,14 @@
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/controller/AuthenticationController.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/controller/UserController.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/model/LoginInput.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/service/impl/UserServiceImpl.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/helper/UserMapper.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/entity/ChatUser.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/exception/UserExists.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/model/UserInput.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/exception/ChatExceptionHandler.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/repository/UserRepository.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/service/impl/AuthenticationServiceImpl.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/service/AutenticationService.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/service/UserService.java
+/Users/venkat/IdeaProjects/chat-app/src/main/java/com/stem/chatapp/ChatAppApplication.java
